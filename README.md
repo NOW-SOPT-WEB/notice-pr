@@ -17,7 +17,8 @@
 
 ## 2️⃣ Pull Request 작성하기
 
-![image](https://github.com/DO-SOPT-WEB/notice-pr/assets/97084864/ccbda030-63b9-4771-b232-9fd0f2583315)
+![image](https://github.com/NOW-SOPT-WEB/notice-pr/assets/81609304/da2dc0f7-0811-4c62-8db3-f5a7974b6bd1)
+
 
 base: main ← compare: week1 이라고 나와있는데....✨
 
